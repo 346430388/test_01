@@ -1,0 +1,4 @@
+#忽略index.html这个文件
+index.html
+#忽略text 里边的所有内容
+text/
